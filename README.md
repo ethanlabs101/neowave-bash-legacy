@@ -92,7 +92,7 @@ This is why the Lua version was developed — to unlock full customization, modu
 
    ## 🔗 See Also
  - [NeoWave Lua](https://github.com/ethanlabs101/neowave-lua) (Current Version) – Full-featured system info engine with custom ASCII, colors, modules, and overrides.
- - [NEOFETCH](https://github.com/dylanaraps/neofetch)
+ - [NEOFETCH](https://github.com/dylanaraps/neofetch) - Official Neofetch Repository
 
 ---
 
