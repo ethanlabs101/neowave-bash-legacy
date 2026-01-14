@@ -19,9 +19,9 @@ NeoWave Bash was my first attempt at building a configurable, modular system inf
 It’s a lightweight approach to customizing Neofetch, designed to experiment with terminal aesthetics, info overrides, and system manipulation.
 
 ## 📂 File Structure & Description
-├── apply.sh        # Main Bash script: generates temporary config, previews, applies, or reverts
-├── ascii/          # Folder containing ASCII logos (legacy format)
-│   └── blackarch.ascii
-├── colors/         # Color presets for terminal output
-├── data/           # Distro info database (for ASCII selection)
-└── README.md       # You are here!
+- ├── apply.sh        # Main Bash script: generates temporary config, previews, applies, or reverts
+- ├── ascii/          # Folder containing ASCII logos (legacy format)
+- │   └── blackarch.ascii
+- ├── colors/         # Color presets for terminal output
+- ├── data/           # Distro info database (for ASCII selection)
+- └── README.md       # You are here!
