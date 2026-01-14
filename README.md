@@ -18,6 +18,8 @@ NeoWave Bash was my first attempt at building a configurable, modular system inf
 
 It’s a lightweight approach to customizing Neofetch, designed to experiment with terminal aesthetics, info overrides, and system manipulation.
 
+---
+
 ## 📂 File Structure & Description
 - ├── apply.sh        # Main Bash script: generates temporary config, previews, applies, or reverts
 - ├── ascii/          # Folder containing ASCII logos (legacy format)
@@ -26,17 +28,23 @@ It’s a lightweight approach to customizing Neofetch, designed to experiment wi
 - ├── data/           # Distro info database (for ASCII selection)
 - └── README.md       # You are here!
 
+---
+
 ## 🚧 What Works
  - Right-aligned info modules
  - Config preview, apply, and revert system
  - Basic color customization from presets
  - Experimentation with distro ASCII logos
 
+---
+
  ##  ⚠️ Limitations
  - Custom ASCII logos are broken or limited
  - Terminal background and full color override not implemented
  - No “fast fetch” mode support
  - Limited compatibility with modern terminal emulators (some features may not render correctly)
+
+---
 
 ## 🏗️ The Ceiling Hit
 
@@ -47,8 +55,12 @@ This Bash version represents my early system experimentation. I pushed the bound
 
 This is why the Lua version was developed — to unlock full customization, module overrides, and proper ASCII/color support.
 
+---
+
    ## 🔗 See Also
  - [NeoWave Lua](https://github.com/ethanlabs101/neowave-lua) (Current Version) – Full-featured system info engine with custom ASCII, colors, modules, and overrides.
+
+---
 
   ## 📜 License
 
