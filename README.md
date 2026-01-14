@@ -25,3 +25,33 @@ It’s a lightweight approach to customizing Neofetch, designed to experiment wi
 - ├── colors/         # Color presets for terminal output
 - ├── data/           # Distro info database (for ASCII selection)
 - └── README.md       # You are here!
+
+## 🚧 What Works
+ - Right-aligned info modules
+ - Config preview, apply, and revert system
+ - Basic color customization from presets
+ - Experimentation with distro ASCII logos
+
+ ##  ⚠️ Limitations
+ - Custom ASCII logos are broken or limited
+ - Terminal background and full color override not implemented
+ - No “fast fetch” mode support
+ - Limited compatibility with modern terminal emulators (some features may not render correctly)
+
+## 🏗️ The Ceiling Hit
+
+This Bash version represents my early system experimentation. I pushed the boundaries of config-driven Neofetch manipulation, but Bash inherently limits:
+ - Modular flexibility
+ - Advanced ASCII/graphics handling
+ - Full color and terminal modifications
+
+This is why the Lua version was developed — to unlock full customization, module overrides, and proper ASCII/color support.
+
+   ## 🔗 See Also
+ - NeoWave Lua (Current Version) – Full-featured system info engine with custom ASCII, colors, modules, and overrides.
+
+  ## 📜 License
+
+This project is open source and released under the MIT License. See LICENSE for details.
+
+“NeoWave Bash shows where I started — the first step toward building modular, powerful, and fun terminal tools.”
