@@ -48,7 +48,8 @@ It’s a lightweight approach to customizing Neofetch, designed to experiment wi
 ---
 
 ⚙️ How It Works
--  Run neowave from your terminal.
+-  Drop neowave folder in ~/.config
+-  Run "neowave" command from your terminal.
 -  Use the CLI menu to:
 -  Preview and apply new configurations.
 -  Toggle ASCII logos (distro or custom).
