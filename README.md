@@ -61,7 +61,7 @@ It’s a lightweight approach to customizing Neofetch, designed to experiment wi
 
 ## 📷 Screen Recording
 
-[!Video](https://github.com/ethanlabs101/neowave-bash-legacy/blob/main/assets/neowave.webm)
+![Video](https://github.com/ethanlabs101/neowave-bash-legacy/blob/main/assets/neowave-bash.gif)
 
 ---
 
