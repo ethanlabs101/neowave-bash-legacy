@@ -46,13 +46,13 @@ It’s a lightweight approach to customizing Neofetch, designed to experiment wi
 ---
 
 ⚙️ How It Works
--  - Run neowave from your terminal.
--  - Use the CLI menu to:
--  - Preview and apply new configurations.
--  - Toggle ASCII logos (distro or custom).
--  - Change color presets (red, green, blue, yellow, purple).
--  - All changes generate a temporary config (tmp.conf) which can be previewed or applied.
--  - Original NEOFETCH configs are backed up in stock_configs so you can revert safely.
+-  Run neowave from your terminal.
+-  Use the CLI menu to:
+-  Preview and apply new configurations.
+-  Toggle ASCII logos (distro or custom).
+-  Change color presets (red, green, blue, yellow, purple).
+-  All changes generate a temporary config (tmp.conf) which can be previewed or applied.
+-  Original NEOFETCH configs are backed up in stock_configs so you can revert safely.
 
 ---    
 
