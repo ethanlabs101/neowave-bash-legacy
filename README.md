@@ -2,7 +2,7 @@
 
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-![Profile Banner](https://raw.githubusercontent.com/ethanlabs101/ethanlabs101/94c0c4b0b03c085f9d601840ec274a082c8deee8/assets/ethanlabs101.jpg)
+![Profile Banner](https://github.com/ethanlabs101/neowave-bash-legacy/blob/main/assets/neowave-bash.jpg)
 
 This is the original Bash version of NeoWave, my custom system info and terminal tool built around Neofetch. Consider this a legacy repo — it shows my early work and the foundation for the more advanced Lua version.
 
