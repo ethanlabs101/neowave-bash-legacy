@@ -1,5 +1,7 @@
 ## NeoWave Bash (Legacy) 🖤
 
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
 This is the original Bash version of NeoWave, my custom system info and terminal tool built around Neofetch. Consider this a legacy repo — it shows my early work and the foundation for the more advanced Lua version.
 
 ⚠️ Legacy Notice: Some features like custom ASCII logos and full color overrides don’t fully work in this version. For the latest and fully featured NeoWave, see the Lua version.
