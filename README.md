@@ -54,4 +54,6 @@ This is why the Lua version was developed — to unlock full customization, modu
 
 This project is open source and released under the MIT License. See [LICENSE](https://github.com/ethanlabs101/neowave-bash-legacy/blob/main/LICENSE) for details.
 
-“NeoWave Bash shows where I started — the first step toward building modular, powerful, and fun terminal tools.”
+---
+
+>“NeoWave Bash shows where I started — the first step toward building modular, powerful, and fun terminal tools.”
