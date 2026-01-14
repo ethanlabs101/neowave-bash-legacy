@@ -59,6 +59,12 @@ It’s a lightweight approach to customizing Neofetch, designed to experiment wi
 
 ---    
 
+## 📷 Screen Recording
+
+(https://github.com/ethanlabs101/neowave-bash-legacy/blob/main/assets/neowave.webm)
+
+---
+
 ## 🚧 What Works
  - Right-aligned info modules
  - Config preview, apply, and revert system
