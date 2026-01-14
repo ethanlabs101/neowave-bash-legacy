@@ -48,7 +48,7 @@ This Bash version represents my early system experimentation. I pushed the bound
 This is why the Lua version was developed — to unlock full customization, module overrides, and proper ASCII/color support.
 
    ## 🔗 See Also
- - NeoWave Lua (Current Version) – Full-featured system info engine with custom ASCII, colors, modules, and overrides.
+ - [NeoWave Lua](https://github.com/ethanlabs101/neowave-lua) (Current Version) – Full-featured system info engine with custom ASCII, colors, modules, and overrides.
 
   ## 📜 License
 
