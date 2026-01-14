@@ -1,4 +1,4 @@
-NeoWave Bash (Legacy) 🖤
+##NeoWave Bash (Legacy) 🖤
 
 This is the original Bash version of NeoWave, my custom system info and terminal tool built around Neofetch. Consider this a legacy repo — it shows my early work and the foundation for the more advanced Lua version.
 
@@ -6,7 +6,7 @@ This is the original Bash version of NeoWave, my custom system info and terminal
 
 ⸻
 
-💻 Overview
+##💻 Overview
 
 NeoWave Bash was my first attempt at building a configurable, modular system info tool. It allowed:
  • Custom ASCII logos (limited in Bash)
